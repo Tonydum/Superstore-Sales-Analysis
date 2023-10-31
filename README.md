@@ -70,6 +70,3 @@ Optimize Shipping: Analyze the feasibility of faster shipping options to enhance
 ## Conclusion
 This project provided comprehensive insights into the sales operations of the Superstore, highlighting areas of strength and opportunities for growth. 
 The combination of SQL analysis and Tableau visualizations facilitated a deep understanding of the data, leading to informed recommendations for strategic business decisions.
-![image](https://github.com/Tonydum/Superstore-Sales-Analysis/assets/135748491/b0a2d32f-e015-44df-83be-771915b8dd36)
-
-
